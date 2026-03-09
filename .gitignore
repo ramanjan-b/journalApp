@@ -1,3 +1,5 @@
+*.yml
+!.github/workflows/*.yml
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -12,7 +14,6 @@ target/
 .settings
 .springBeans
 .sts4-cache
-*.yml
 *.log
 ### IntelliJ IDEA ###
 .idea
